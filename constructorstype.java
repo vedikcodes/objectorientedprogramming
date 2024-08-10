@@ -53,7 +53,7 @@ class Student {
 }
 
 // Driver class
-class Constructorstype {
+ class Constructorstype {
     public static void main(String[] args) {
         // Creating an object using the non-parameterized constructor
         Student student1 = new Student();
